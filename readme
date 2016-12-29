@@ -5,7 +5,7 @@ Git is free software
 this is a bug
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Git has a mutable index called stage.
+has a mutable index called stage.
 1
 333
 i love you
@@ -15,4 +15,6 @@ add dev2 branch a word
 chuxian bug qian xie de bug
 chengxu haimeiyou kai fa wan
 出现bug前写的代码
+修复bug后写的代码
+又写了一些代码
 修复bug后写的代码
