@@ -7,8 +7,8 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 has a mutable index called stage.
 1
-333
-i love you
+你知道吗
+再也没有爱了 you
 Creating a new branch is quick AND simple.`:wq
 add dev branch a word
 add dev2 branch a word
@@ -22,3 +22,4 @@ chengxu haimeiyou kai fa wan
 增加
 
 在3.83 dev上增加这段
+在3.83增加这一段，你不知道
